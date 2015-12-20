@@ -10,6 +10,15 @@ Version 1.0 kirjoittamiseen ja kommentointiin ovat osallistuneet lukuisien anony
 * Jarkko Moilanen,
 * Jukka Aaltonen,
 * Ville Peltola,
+* Aapo Rista,
+* Annukka Varteva,
+* Matti Kinnunen,
+* Teemu Ropponen,
+* Jani Karhunen,
+* Mikko Kolehmainen,
+* Antti Poikola,
+* Eero Konttaniemi,
+* Kimmo Mäkinen,
 
 
 ## Keskustelua
