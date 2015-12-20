@@ -19,6 +19,11 @@ Version 1.0 kirjoittamiseen ja kommentointiin ovat osallistuneet lukuisien anony
 * Antti Poikola,
 * Eero Konttaniemi,
 * Kimmo Mäkinen,
+* Arvi Leino, 
+* Janne Viskari,
+* Samuel Rinnetmäki,
+* Tuula Pääkkönen,
+* 
 
 
 ## Keskustelua
