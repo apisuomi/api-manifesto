@@ -3,12 +3,12 @@
 
 ## 1. Palvele digitaalisesti
 
-Suunnittele palvelukehitys API eli rajapinta edellä. Kaikki ohjelmistot siirtävät tietoa rajapintojen läpi, joten niiden avulla voi palvella erilaisia sidosryhmiä sähköisesti. Rajapintojen avulla voi palvella myös oman organisaation yksiköitä, joilla ei ole pääsyä taustajärjestelmään. Rajapinnat ovat edellytys digitaalisten ekosysteemien luomiselle ja skaalaamiselle. Ne tuovat digitaalisille palveluille lisäarvoa ja mahdollistavat ketteryyden. Varmista, että rajapinnalla on riittävä palvelulupaus (SLA).
+Suunnittele tietotekniikkaan pohjautuva digitaalinen palvelukehitys rajapinta (lyhyesti API) edellä. Kaikki ohjelmistot siirtävät tietoa rajapintojen läpi, joten niiden avulla voi palvella erilaisia sidosryhmiä sähköisesti. Rajapintojen avulla voi palvella myös oman organisaation yksiköitä, joilla ei ole pääsyä taustajärjestelmään. Rajapinnat ovat edellytys digitaalisten ekosysteemien luomiselle ja skaalaamiselle. Ne tuovat digitaalisille palveluille lisäarvoa ja mahdollistavat ketteryyden. Varmista, että rajapinnalla on riittävä palvelulupaus (SLA) ja laita se julkisesti nähtäville.
 
 
 ## 2. Suosi avoimuutta
 
-Tutkitusti avoimuus tuottaa yleensä parempaa laatua. Se palvelee sekä paremmin että lisää ketteryyttä. Sisällön avoin lisenssi mahdollistaa innovoinnin ja uudelleenkäytön myös liiketoiminnassa. Avoin rajapinta taas tekee avoimen sisällön käyttöä helpompaa. Sisällytä tietojärjestelmähankintoihin avoin rajapinta aina kun mahdollista. Katso avoimen rajapinnan määritelmä osoitteesta: http://avoinrajapinta.fi.
+Avoimuus tuottaa tutkitusti parempaa laatua nopeammin. Avoimuuden avulla palvellaan paremmin ja  ketterämmin. Sisällön avoin lisenssi mahdollistaa innovoinnin ja uudelleenkäytön myös liiketoiminnassa. Avoin rajapinta tekee sen takana olevan sisällön käytöstä helpompaa. Sisällytä tietojärjestelmähankintoihin avoin rajapinta aina kun mahdollista. Katso avoimen rajapinnan määritelmä osoitteesta: http://avoinrajapinta.fi.
 
 
 ## 3. Madalla käyttöönoton kynnystä
@@ -18,7 +18,7 @@ Laatu tarkoittaa myös hyvää saavutettavuutta. Rajapinnan kohdalla sillä tark
 
 ## 4. Mittaa, opi palautteesta ja iteroi
 
-Sitä saat, mitä mittaat. Rajapinnan mittaaminen on palautetta, josta kannattaa oppia jatkuvasti. Palaute mahdollistaa iteraation, jolla tarkoitetaan rajapinnan jatkuvaa kehittämistä pienin ja helposti hallittavin askelin. Rajapinnan kehityksessä kannattaa pyrkiä yhteistyöhön asiakkaiden kanssa. Vain siten tiedät, mitä tarvitaan, etkä tee turhaa työtä.
+Sitä saat, mitä mittaat. Rajapinnan käytön mittaaminen on palautetta, josta kannattaa oppia jatkuvasti. Palaute mahdollistaa iteraation, jolla tarkoitetaan rajapinnan jatkuvaa kehittämistä pienin ja helposti hallittavin askelin. Rajapinnan kehityksessä kannattaa pyrkiä yhteistyöhön asiakkaiden kanssa. Vain siten tiedät, mitä tarvitaan, etkä tee turhaa työtä.
 
 
 ## 5. Tee yhteistyötä muiden kanssa
