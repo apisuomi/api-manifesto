@@ -1,11 +1,11 @@
 # API-manifesti
 
 
-## 1. Palvele digitaalisesti
+## 1. Palvele digitaalisesti rajapintapalvelun avulla
 
-Suunnittele tietotekniikkaan pohjautuva digitaalinen palvelu- ja ohjelmistokehitys **aloittaen rajapinnan suunnittelusta**. Kaikki **ohjelmistot siirtävät tietoa rajapintojen läpi**. Rajapintoihin pohjautuvassa taloudessa (engl. API Economy) on tavoitteena palvella rajapintojen avulla erilaisia sidosryhmiä sähköisesti mahdollisimman hyvin. Hyvien rajapintojen avulla palvellaan digitaalisesti myös oman organisaation muita yksiköitä, joilla ei ole pääsyä taustajärjestelmään. **Toimivat rajapinnat ovat edellytys digitaalisten ekosysteemien luomiselle ja skaalaamiselle**. Ne tuovat digitaalisille palveluille lisäarvoa ja mahdollistavat toiminnan ketteryyden. Varmista, että rajapinnalla on riittävä palvelulupaus (engl. Service-Level Agreement, SLA) ja laita se julkisesti nähtäville.
+Suunnittele tietotekniikkaan pohjautuva digitaalinen palvelu- ja ohjelmistokehitys **aloittaen rajapinnan suunnittelusta**. Kaikki **tietokoneohjelmat siirtävät tietoa rajapintojen läpi**. Rajapintoihin pohjautuvassa taloudessa (engl. API Economy) on tavoitteena palvella rajapintojen avulla sidosryhmiä sähköisesti mahdollisimman hyvin sekä organisaation sisä- että ulkopuolella. Siinä rajapinta nostetaan digitaalisen toiminnan keskiöön ja se nähdään tapana palvella digitaalisesti mahdollisimman hyvin. **Toimivat rajapinnat ovat edellytys digitaalisten ekosysteemien luomiselle ja skaalaamiselle**. Ne tuovat digitaalisille palveluille lisäarvoa ja mahdollistavat toiminnan ketteryyden. Varmista, että rajapinnalla on riittävä palvelulupaus (engl. Service-Level Agreement, SLA) ja laita palvelulupaus julkisesti nähtäville.
 
-*Kommentti: Aiemmin oli tärkeää luoda organisaatiolle internetsivut. Vuosien aikana päätelaitteiden (tietokoneet, kännykät, tabletit, jääkaapit, stereot, nettitelevisiot) määrä ja erilaiset ominaisuudet monipuolistuvat. Nykyään on tärkeää tarjota mahdollisimman hyvä ja avoin rajapinta, jonka päälle sidosryhmät voivat rakentaa erilaisia käyttöliittymiä ja käyttökokemuksia ja jalostaa rajapinnan tarjoamaa tietoa mitä erilaisimmin tavoin. Muutokseen on aiempaa helpompi reagoida nopeammin.*
+*Kommentti: Aiemmin oli tärkeää luoda organisaatiolle internetsivut. Vuosien aikana päätelaitteiden (tietokoneet, kännykät, tabletit, jääkaapit, stereot, nettitelevisiot) määrä ja erilaiset ominaisuudet monipuolistuvat. Nykyään on tärkeää tarjota mahdollisimman hyvä & avoin rajapinta, jonka päälle sidosryhmät voivat rakentaa erilaisia käyttöliittymiä & käyttökokemuksia. Sidosryhmät voivat jalostaa rajapinnan tarjoamaa tietoa mitä erilaisimmin tavoin. Toimivan rajapinnan avulla teknologian ja toimintaympäristön muutoksiin on helpompi reagoida nopeammin.*
 
 
 ## 2. Suosi avoimuutta
@@ -13,12 +13,12 @@ Suunnittele tietotekniikkaan pohjautuva digitaalinen palvelu- ja ohjelmistokehit
 **Avoimuus tuottaa tutkitusti parempaa laatua nopeammin**. Avoimuuden avulla palvellaan paremmin ja  ketterämmin. Sisällön avoin lisenssi mahdollistaa innovoinnin ja uudelleenkäytön myös liiketoiminnassa. Avoin rajapinta tekee sen takana olevan sisällön käytöstä helpompaa. Sisällytä tietojärjestelmähankintoihin avoin rajapinta aina kun mahdollista. Katso avoimen rajapinnan määritelmä osoitteesta: http://avoinrajapinta.fi.
 
 
-## 3. Madalla käyttöönoton kynnystä
+## 3. Tee käyttöönotosta mahdollisimman helppoa
 
-Laatu tarkoittaa myös hyvää saavutettavuutta. Rajapinnan kohdalla sillä tarkoitetaan sekä helppoa löydettävyyttä että käytettävyyttä. **Laadukkaan rajapinnan käytön oppii mahdollisimman nopeasti**. Hyvällä rajapinnalla on **hyvä ajantasainen dokumentaatio**, jonka löytää helposti. Hyvässä dokumentaatiossa on myös **runsaasti tapaus- ja koodiesimerkkejä rajapinnan hyödyntämisestä**. Muita keinoja parantaa kehittäjäkokemusta ovat muun muassa kehitysympäristöt, rajapintaluettelot, automatisoitu API-avaimien luominen käytön seurantaa varten sekä **palautekanava rajapinnan omistajan ja kehittäjän välillä**. Palautekanavaksi suositellaan jotain avointa, viestit arkistoivaa foorumia. Käytä kehittäjäportaalia kokoamaan materiaali helposti saavutettavaksi, mielekkääksi kokonaisuudeksi.
+Laatu tarkoittaa myös hyvää saavutettavuutta. Rajapinnan kohdalla sillä tarkoitetaan sekä helppoa löydettävyyttä että käytettävyyttä. **Laadukkaan rajapinnan käytön oppii mahdollisimman nopeasti**. Hyvällä rajapinnalla on **hyvä ajantasainen dokumentaatio**, jonka löytää helposti. Hyvässä dokumentaatiossa on myös **runsaasti tapaus- ja koodiesimerkkejä rajapinnan hyödyntämisestä**. Muita keinoja parantaa kehittäjäkokemusta ovat muun muassa kehitysympäristöt, rajapintaluettelot, automatisoitu API-avaimien luominen (käytön seurantaa varten) sekä **palautekanava rajapinnan omistajan ja kehittäjän välillä**. Palautekanavaksi suositellaan jotain avointa, viestit arkistoivaa foorumia. Käytä kehittäjäportaalia kokoamaan materiaali helposti saavutettavaksi, mielekkääksi kokonaisuudeksi.
 
-*Kommentti: Uusi käyttäjä pystyy ottamaan parhaimmat rajapinnat käyttöön alle viidesssä (5) minuutissa. Tyypillisesti niihin tarjotaan eri tarpeisiin valmiita koodeja rajapintakyselyihin, joita voi sitten lähteä kehittämään eteenpäin.* 
- 
+*Kommentti: Uusi käyttäjä pystyy ottamaan parhaimmat rajapinnat käyttöön alle viidessä (5) minuutissa. Niissä tarjotaan eri tarpeisiin valmiita koodeja rajapintakyselyihin (esimerkiksi Python & javascript), joita voi sitten lähteä kehittämään eteenpäin.*
+
 ## 4. Mittaa, opi palautteesta ja iteroi
 
 Sitä saat, mitä mittaat. **Rajapinnan käytön mittaaminen on palautetta, josta rajapinnan tarjoajan kannattaa oppia jatkuvasti**. Palaute mahdollistaa iteraation, jolla tarkoitetaan **rajapinnan jatkuvaa kehittämistä pienin ja helposti hallittavin askelin**. Muista kuitenkin rajapinnan versiointi tarvitaessa. Rajapinnan kehityksessä kannattaa pyrkiä jatkuvaan yhteistyöhön sen asiakkaiden kanssa. Vain siten tiedät, mitä tarvitaan, etkä tee turhaa työtä. Mieti myös ulkoisten rajapinnan toimintaa testaavien työkalujen hyödyntämistä, joiden avulla ymmärrät muiden käyttäjäkokemusta paremmin.
@@ -40,4 +40,4 @@ Rajapinnat tehdään johdonmukaisesti toteuttajasta ja toteutustavasta riippumat
 
 **Hyvä rajapinta vastaa tiettyyn tarpeeseen**. **Rajapinnalla tulee olla julkisesti suunniteltu ja julkaistu elinkaari**. Rajapinta suunnitellaan, toteutetaan, hyödynnetään ja lopulta poistetaan käytöstä. Rajapinta on osa tämän päivän käyttöliittymäsuunnittelua, jossa huomioidaan myös sovellukset ihmisten rinnalla. Rakenna tarkkaan rajattuja, käytännöllisiä ja helposti käyttöönotettavia rajapintoja. Yksi hyvä mittari rajapinnan laadulle on se, kuinka nopeasti ja helposti sen pystyy ottamaan käyttöön.
 
-*Kommentti: Julkaise API:n dokumentaatiossa sen suunniteltu elinkaari (tulevaisuuden päivitykset, versiot jne.) ja päivitä suunnitelmaa sitä mukaan kun suunnitelmat muuttumat*
+*Kommentti: Julkaise rajapinnan dokumentaatiossa sen suunniteltu elinkaari (tulevaisuuden päivitykset, versiot jne.) ja päivitä suunnitelmaa säännöllisesti*
