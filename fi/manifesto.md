@@ -15,9 +15,9 @@ Suunnittele tietotekniikkaan pohjautuva digitaalinen palvelu- ja ohjelmistokehit
 
 ## 3. Tee käyttöönotosta mahdollisimman helppoa
 
-Laatu tarkoittaa myös hyvää saavutettavuutta. Rajapinnan kohdalla sillä tarkoitetaan sekä helppoa löydettävyyttä että käytettävyyttä. **Laadukkaan rajapinnan käytön oppii mahdollisimman nopeasti**. Hyvällä rajapinnalla on **hyvä ajantasainen dokumentaatio**, jonka löytää helposti. Hyvässä dokumentaatiossa on myös **runsaasti tapaus- ja koodiesimerkkejä rajapinnan hyödyntämisestä**. Muita keinoja parantaa kehittäjäkokemusta ovat muun muassa kehitysympäristöt, rajapintaluettelot, automatisoitu API-avaimien luominen (käytön seurantaa varten) sekä **palautekanava rajapinnan omistajan ja kehittäjän välillä**. Palautekanavaksi suositellaan jotain avointa, viestit arkistoivaa foorumia. Käytä kehittäjäportaalia kokoamaan materiaali helposti saavutettavaksi, mielekkääksi kokonaisuudeksi.
+Laatu tarkoittaa myös hyvää saavutettavuutta. Rajapinnan kohdalla sillä tarkoitetaan sekä helppoa löydettävyyttä että käytettävyyttä. **Laadukkaan rajapinnan käytön oppii mahdollisimman nopeasti**. Hyvällä rajapinnalla on **hyvä ajantasainen dokumentaatio**, jonka löytää helposti. Hyvässä dokumentaatiossa on myös **runsaasti tapaus- ja koodiesimerkkejä rajapinnan hyödyntämisestä**. Muita keinoja parantaa kehittäjäkokemusta ovat muun muassa kehitysympäristöt, rajapintaluettelot, automatisoitu API-avaimien luominen (käytön seurantaa varten) sekä **palautekanava rajapinnan omistajan ja kehittäjän välillä**. Palautekanavaksi suositellaan jotain avointa, viestit arkistoivaa foorumia. Käytä kehittäjäportaalia kokoamaan materiaali helposti saavutettavaksi, mielekkääksi kokonaisuudeksi. Edellä mainitut asiat sisältävästä kokonaisuudesta käytetään nimeä **rajapintapalvelu**. 
 
-*Kommentti: Uusi käyttäjä pystyy ottamaan parhaimmat rajapinnat käyttöön alle viidessä (5) minuutissa. Niissä tarjotaan eri tarpeisiin valmiita koodeja rajapintakyselyihin (esimerkiksi Python & javascript), joita voi sitten lähteä kehittämään eteenpäin.*
+*Kommentti: Uusi käyttäjä pystyy ottamaan parhaimmat rajapintapalvelut käyttöön alle viidessä (5) minuutissa. Niissä tarjotaan eri tarpeisiin valmiita koodeja rajapintakyselyihin (esimerkiksi Python & javascript), joita voi sitten lähteä kehittämään eteenpäin.*
 
 ## 4. Mittaa, opi palautteesta ja iteroi
 
@@ -33,7 +33,7 @@ Monella taholla voi olla samankaltaisia rajapintatarpeita. Selvitä yhteistyön 
 
 ## 6. Toteuta johdonmukaisesti
 
-Rajapinnat tehdään johdonmukaisesti toteuttajasta ja toteutustavasta riippumatta. Niissä käytetään samoja suunnittelumalleja, mutta niihin jätetään myös liikkumatilaa. Kaiken kattava standardointi on mahdottomuus. Perusteelliset monen sadan sivun vaatimusmäärittelyt ovat yleensä jo vahentuneita valmistuessaan. Kannattaa pyrkiä siihen, että rajapinnat toimivat yhdenmukaisesti. Julkisen sektorin avointen rajapintojen sisältö tulee tarjota yhden lisenssin alla. Myös rajapinnan käyttöehdoissa pyritään yhdenmukaisuuteen. Käytä kansainvälisiä standardeja aina kun mahdollista. Standardit auttavat harmonisoinnissa ja helpottavat hyödyntämistä.
+Rajapinnat tehdään johdonmukaisesti toteuttajasta ja toteutustavasta riippumatta. Niissä käytetään samoja suunnittelumalleja, mutta niihin jätetään myös liikkumatilaa. Kaiken kattava standardointi on mahdottomuus. Perusteelliset monen sadan sivun vaatimusmäärittelyt ovat yleensä jo vanhentuneita valmistuessaan. Kannattaa pyrkiä siihen, että rajapinnat toimivat yhdenmukaisesti. Julkisen sektorin avointen rajapintapalvelujen sisältö tulee tarjota yhden lisenssin alla. Myös rajapintapalvelun käyttöehdoissa pyritään yhdenmukaisuuteen. Käytä kansainvälisiä standardeja aina kun mahdollista. Standardit auttavat harmonisoinnissa ja helpottavat hyödyntämistä.
 
 
 ## 7. Tee tarkoituksenmukaisia rajapintoja
