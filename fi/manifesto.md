@@ -10,7 +10,7 @@ Suunnittele tietotekniikkaan pohjautuva digitaalinen palvelu- ja ohjelmistokehit
 
 ## 2. Suosi avoimuutta
 
-**Avoimuus tuottaa tutkitusti parempaa laatua nopeammin**. Avoimuuden avulla palvellaan paremmin ja  ketterämmin. Sisällön avoin lisenssi mahdollistaa innovoinnin ja uudelleenkäytön myös liiketoiminnassa. Avoin rajapinta tekee sen takana olevan sisällön käytöstä helpompaa. Sisällytä tietojärjestelmähankintoihin avoin rajapinta aina kun mahdollista. Katso avoimen rajapinnan määritelmä osoitteesta: http://avoinrajapinta.fi.
+**Avoimuus tuottaa tutkitusti parempaa laatua nopeammin**. Avoin toimintatapa alusta asti minimoi turhan työn. Avoimuuden avulla palvellaan paremmin ja ketterämmin. Sisällön avoin lisenssi mahdollistaa innovoinnin ja uudelleenkäytön myös liiketoiminnassa. Avoin rajapinta tekee sen takana olevan sisällön käytöstä helpompaa. Sisällytä tietojärjestelmähankintoihin avoin rajapinta aina kun mahdollista. Katso avoimen rajapinnan määritelmä osoitteesta: http://avoinrajapinta.fi.
 
 
 ## 3. Tee käyttöönotosta mahdollisimman helppoa
@@ -26,14 +26,14 @@ Sitä saat, mitä mittaat. **Rajapinnan käytön mittaaminen on palautetta, jost
 *Kommentti: Rajapinnan käytön mittaaminen on tärkeä osa sen suunnitelua. Käytännössä voit mitä ketä rajapintaa käyttää (esimerkiksi IP-osoite, API-avain, käyttäjän tunnistus) ja koska (päivämäärä, kellonaika) ja mitä tietoa rajapinnan kautta käytetään ja millä tavoin.*
 
 ## 5. Tee yhteistyötä muiden kanssa
-Monella taholla voi olla samankaltaisia rajapintatarpeita. Selvitä yhteistyön mahdollisuus. Esimerkiksi 6Aika-kaupungit (Helsinki, Espoo, Vantaa, Tampere, Turku ja Oulu) ovat suunnitelleet rajapintoja yhdessä sen sijaan, että jokainen niistä tekisi työn itsenäisesti. Tekemällä yhteistyötä avoimesti myös kehittäjäyhteisön kanssa saadaan parempi lopputulos.
+Monella taholla voi olla samankaltaisia rajapintatarpeita. Selvitä yhteistyön mahdollisuus ja minimoi päällekkäinen työ. Esimerkiksi 6Aika-kaupungit (Helsinki, Espoo, Vantaa, Tampere, Turku ja Oulu) ovat suunnitelleet rajapintoja yhdessä sen sijaan, että jokainen niistä tekisi työn itsenäisesti. Tekemällä yhteistyötä avoimesti myös kehittäjäyhteisön kanssa saadaan parempi lopputulos. Opi myös aiemmista projekteista.
 
 *Kommentti: Rajapinnan takana oleva informaatio on harvoin täydellistä. Nopein tapa parantaa sen laatua on yhteisön antama palaute. Yhteisöt voivat auttaa myös luomalla koodiesimerkkejä, jotka puolestaan helpottavat rajapinnan käyttöönottoa. Hyvien rajapintojen ympärille muodostuu elävä ja monipuolinen, kaikkia hyödyttävä ja auttava ekosysteemi.*
 
 
 ## 6. Toteuta johdonmukaisesti
 
-Rajapinnat tehdään johdonmukaisesti toteuttajasta ja toteutustavasta riippumatta. Niissä käytetään samoja suunnittelumalleja, mutta niihin jätetään myös liikkumatilaa. Kaiken kattava standardointi on mahdottomuus. Perusteelliset monen sadan sivun vaatimusmäärittelyt ovat yleensä jo vanhentuneita valmistuessaan. Kannattaa pyrkiä siihen, että rajapinnat toimivat yhdenmukaisesti. Julkisen sektorin avointen rajapintapalvelujen sisältö tulee tarjota yhden lisenssin alla. Myös rajapintapalvelun käyttöehdoissa pyritään yhdenmukaisuuteen. Käytä kansainvälisiä standardeja aina kun mahdollista. Standardit auttavat harmonisoinnissa ja helpottavat hyödyntämistä.
+Rajapinnat tehdään johdonmukaisesti toteuttajasta ja toteutustavasta riippumatta. Niissä käytetään samoja suunnittelumalleja, mutta niihin jätetään myös liikkumatilaa. Kaiken kattava standardointi on mahdottomuus. Perusteelliset monen sadan sivun vaatimusmäärittelyt ovat yleensä jo vanhentuneita valmistuessaan, koska maailma muuttuu päivä päivältä nopeammin. Kannattaa pyrkiä siihen, että rajapinnat toimivat yhdenmukaisesti. Julkisen sektorin avointen rajapintapalvelujen sisältö tulee tarjota yhden lisenssin alla. Myös rajapintapalvelun käyttöehdoissa pyritään yhdenmukaisuuteen. Käytä kansainvälisiä standardeja aina kun mahdollista. Standardit auttavat harmonisoinnissa ja helpottavat hyödyntämistä.
 
 
 ## 7. Tee tarkoituksenmukaisia rajapintoja
